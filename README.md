@@ -8,7 +8,7 @@ Whether you’re shopping for the latest gadgets or stylish apparel, our platfor
 
 ## 🌟 Project Overview
 
-ShopZen is a fully responsive and modern eCommerce web application inspired by Amazona, with enhancements tailored for real-world usability. It includes essential features such as product browsing, user authentication, cart management, order placement, admin dashboard, and more.
+ShopZen is a fully responsive and modern eCommerce web application, with enhancements tailored for real-world usability. It includes essential features such as product browsing, user authentication, cart management, order placement, admin dashboard, and more.
 
 ## 🧰 Technologies Used
 
