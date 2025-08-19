@@ -19,7 +19,6 @@ This project is built with the following technologies:
 - 💅 Tailwind CSS – Utility-first CSS for styling (used in customization)
 - 🗃️ MongoDB – NoSQL database for storing products, users, and orders
 - 🔐 JWT Authentication – Secure login system for users and admins
-- 🧾 Stripe – Integrated payment gateway
 - 📦 Redux (via useReducer/useContext) – State management solution
 - 📦 Axios – For HTTP API requests
 - 🌐 Node.js + Express – Server-side functionality and APIs
